@@ -1,0 +1,52 @@
+CORSO DI ELEMENTI DI COMPOSIZIONE MUSICALE ELETTROACUSTICA (per studenti di Composizione)
+
+Argomenti trattati:
+
+segnale analogico e segnale digitale,
+campionamento,
+quantizzazione,
+introduzione alla sintesi del suono,
+teoria di: sintesi additiva, AM e RM,
+Max/MSP: cosa è e come funziona,
+spettri armonici e inarmonici, inviluppi, battimenti, implementazione di sintesi additiva, AM e RM in Max/MSP,
+Editing del suono,
+Ascolti, analisi, spiegazioni, riflessioni su brani di repertorio
+
+Bibliografia:
+
+A. Cipriani, M. Giri, Musica Elettronica e Sound Design vol.1
+Pagine estratte da testi di carattere storico-analitico (riguardanti la musica elettronica)
+
+Ascolti:
+
+Edgar Varese – Deserts
+Karlheinz Stockhausen – Studio II
+Karlheinz Stockhausen – Gesang der Junglinge
+Franco Evangelisti – Incontri di fasce sonore
+Luciano Berio – Thema. Omaggio a Joyce
+Bruno Maderna – Continuo
+Max Matthews – Daisy Bell
+John Chowning – Turenas
+Jean-Claude Risset – Contours
+Jean-Claude Risset – Sud
+Luigi Nono – Ricorda cosa ti hanno fatto in Auschwitz
+Luigi Nono – Post-Praeludium per Donau
+Pierre Boulez - Anthem II
+Michelangelo Lupone - Gran Cassa
+Giorgio Nottoli - Traiettoria tesa
+David Wessel - Anthony
+Gyorgy Ligeti - Lontano
+Altri compositori: C. Roads, B. Truax, D. Teruggi, ...
+
+Calendario:
+
+20 aprile 2015
+4 maggio 2015
+18 maggio 2015
+1 giugno 2015
+8 giugno 2015
+ulteriori date da concordare
+
+Prova finale:
+
+Presentazione di un brano acusmatico della durata di 3-5 min, composto utilizzando le tecniche di sintesi studiate
